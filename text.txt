@@ -3,6 +3,3 @@ swaga
 345
 22222222
 
-
-
-dfrgthy.log
